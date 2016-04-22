@@ -159,7 +159,7 @@ grunt.initConfig({
 
 [PostCSS]: https://github.com/postcss/postcss
 [Postcss Shape]: https://github.com/baiyaaaaa/postcss-shape
-[travis-img]:  https://travis-ci.org/TrySound/postcss-shape.svg
-[travis]:      https://travis-ci.org/TrySound/postcss-shape
+[travis-img]:  https://travis-ci.org/baiyaaaaa/postcss-shape.svg
+[travis]:      https://travis-ci.org/baiyaaaaa/postcss-shape
 [Gulp PostCSS]: https://github.com/postcss/gulp-postcss
 [Grunt PostCSS]: https://github.com/nDmitry/grunt-postcss
